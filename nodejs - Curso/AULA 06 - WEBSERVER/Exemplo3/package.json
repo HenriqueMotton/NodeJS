@@ -1,0 +1,16 @@
+{
+  "name": "exemplo3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "WebServer.js",
+  "scripts": {
+    "prod": "node src/WebServer.js",
+    "dev": "nodemon src/WebServer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

@@ -1,0 +1,39 @@
+html, body {
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  background: black;
+}
+
+.container {
+  height: 600px;
+  background-color: yellow;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.interior {
+  background-color: red;
+  border: solid;
+  text-align: center;
+  height: 250px;
+  width: 180px;
+  flex-grow: 1;
+  flex-shrink: 1;
+  margin-left: 15px;
+  padding-top: 5px;
+}
+
+.interior2 {
+  background-color: green;
+  border: solid;
+  text-align: center;
+  height: 250px;
+  width: 180px;
+  flex-grow: 4;
+  flex-shrink: 2;
+  margin-left: 15px;
+}

@@ -1,0 +1,19 @@
+AULA 07
+- Continuação de Web Server, ajustando para virar um site
+
+***
+- Favicon
+
+### OPEN API ###
+- Swagger
+- OPEN API 2.0/3.0
+*** Documentação de API (Contratos)
+
+### STATUS CODE ###
+https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status
+
+AGENDA
+======
+1) Revisão da API x Postman e demonstração do Swagger/OpenAPI
+2) Express e Paginas estaticas
+2.1) Favicon
